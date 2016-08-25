@@ -1,4 +1,69 @@
 <resources>
-    <string name="app_name">Tamm</string>
+
+    <string name="second">جهز عرُسك اونلاين</string>
+    <string name="txttrue">هناك حقيقه ثابته منذ زمن بعيد وهى ان المحتوى المقروء سيلهي القارئ عن التركيز عن الشكل الخارجى للنص او شكل توضع فى الفقرات التى يقرأها</string>
+    <string name="login">تسجيل دخول</string>
+    <string name="registeration">عضويه جديده</string>
+    <string name="follow">متابعه</string>
+    <string name="bemember">كن عضوا ليصلك كل جديد</string>
+    <string name="userName">اسم المستخدم</string>
+    <string name="password">رقم المرور</string>
+    <string name="rememberme">قم بتذكيرى عدم الخروج</string>
+    <string name="loginfinish">تسجيل الدخول</string>
+    <string name="loginWithSocialMedia">يمكنك التسجيل السريع عبر شبكات التواصل</string>
+    <string name="weedingTitle">حفل زفاف رائع</string>
+    <string name="phtographerName">اسم المصور</string>
+    <string name="photoName">عبد المجيد اسماعيل</string>
+    <string name="details">تفاصيل الخدمه </string>
+    <string name="detailsContent">يتم الحجز عن طريق التطبيق ويتم الابلاغ بالميعاد والمكان وعند استلام البيانات يتم التأكيد</string>
+    <string name="price">السعر بالريال</string>
+    <string name="priceText">السعر:</string>
+    <string name="priceDetails">1500</string>
+    <string name="btnBook">حجز الان</string>
+
+    <string name="app_name">تم</string>
     <string name="reg_name">الإسم ثلاثي</string>
+    <string name="country_name">الدولة</string>
+    <string name="city">المدينة</string>
+    <string name="coord_loc">احداثيات الموقع</string>
+    <string name="mobile_num">رقم الجوال</string>
+    <string name="e_email">البريد الإلكتروني</string>
+    <string name="pass">كلمة المرور</string>
+    <string name="confm_pass">مرة أخري</string>
+    <string name="register">تسجيل العضوية</string>
+    <string name="header_1">التجارة المنزلية</string>
+    <string name="address">العنوان</string>
+    <string name="type_of_service">نوع الخدمة</string>
+    <string name="date">تاريخ الخدمة</string>
+    <string name="time">الساعة</string>
+    <string name="send_request">إرسال الطلب</string>
+    <string name="confirm_hint">ستصلك رسالة الآن لتأكيد الطلب</string>
+    <string name="rest_time">باقي من الزمن</string>
+    <string name="header_2">الصالونات النسائية</string>
+    <string name="confirm">تأكيد</string>
+    <string name="send_again">إرسال مرة أخري</string>
+    <string name="write_msg_here">أكتب الرسالة هنا</string>
+
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string name="setting">الاعدادات</string>
+    <string name="notification">الاشعارات</string>
+    <string name="cart">طلباتى</string>
+    <string name="mateger_tam">متجر تم</string>
+    <string name="main">الرئيسيه</string>
+    <string name="services">خدماتنا</string>
+    <string name="orderTitle">طلباتي</string>
+    <string name="Ok">تم</string>
+
+    <string-array name="headings_items">
+        <item>خدماتنا</item>
+    </string-array>
+
+    <string-array name="chiled_items">
+        <item>عروض خاصه</item>
+        <item>اقتراحات و شكاوى</item>
+        <item>من نحن</item>
+        <item>اتصل بنا</item>
+    </string-array>
 </resources>
